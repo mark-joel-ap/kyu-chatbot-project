@@ -68,7 +68,7 @@ User Question
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-org/kyu-chatbot.git
+git clone https://github.com/mark-joel-ap/kyu-chatbot.git
 cd kyu-chatbot
 
 python -m venv .venv
